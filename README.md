@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/IT21034404/IT21034404/main/gif1.gif)
+![enter image description here](https://raw.githubusercontent.com/IT21034404/IT21034404/main/gif2.gif)
 <h1 align="center">Hi 👋, I'm Imash Nipun</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
