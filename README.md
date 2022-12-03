@@ -17,8 +17,9 @@
 <a href="https://linkedin.com/in/imash-nipun-37a267258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imash-nipun-37a267258" height="30" width="40" /></a>
 <!--<a href="https://stackoverflow.com/users/imash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imash" height="30" width="40" /></a>-->
 <!--<a href="https://fb.com/imash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imash" height="30" width="40" /></a>-->
-<a href="https://dribbble.com/mash_nip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mash_nip" height="30" width="40" /></a>
+<!--<a href="https://dribbble.com/mash_nip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mash_nip" height="30" width="40" /></a>-->
 <!--<a href="https://www.youtube.com/c/imash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imash" height="30" width="40" /></a>-->
+<a href="https://www.behance.net/imash_nipun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="imash" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/it21034404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="it21034404" height="30" width="40" /></a>
 </p>
 
@@ -27,11 +28,11 @@
 
 
 <h3 align="left"> :octocat: My Github Stats </h3><hr/>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=it21034404&show_icons=true&locale=en&layout=compact&theme=react&bg_color=0D1117" alt="it21034404" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImashNipun&show_icons=true&locale=en&layout=compact&theme=react&bg_color=0D1117" alt="ImashNipun" /></p>
 
-<p align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=it21034404&show_icons=true&locale=en&theme=react&bg_color=0D1117" alt="it21034404" /></p>
+<p align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ImashNipun&show_icons=true&locale=en&theme=react&bg_color=0D1117" alt="ImashNipun" /></p>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=it21034404&theme=react&bg_color=0D1117" alt="it21034404" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ImashNipun&theme=react&bg_color=0D1117" alt="ImashNipun" /></p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21034404" alt="it21034404" /></a> </p>-->
 
