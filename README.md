@@ -28,7 +28,7 @@
 
 
 <h3 align="left"> :octocat: My Github Stats </h3><hr/>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImashNipun&show_icons=true&locale=en&layout=compact&theme=react&bg_color=0D1117" alt="ImashNipun" /></p>
+<p align="left"><a href="https://github.com/ImashNipun/github-readme-stats"><img alt="Imash Nipun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImashNipun&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
 
 <p align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ImashNipun&show_icons=true&locale=en&theme=react&bg_color=0D1117" alt="ImashNipun" /></p>
 
