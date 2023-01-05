@@ -37,7 +37,8 @@
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ImashNipun&theme=react&bg_color=0D1117" alt="ImashNipun" /></p>
 
-<p align="left"><a href="https://github.com/ImashNipun/github-readme-stats"><img alt="Imash Nipun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMASHNIPUN&show_icons=true&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+<p align="left"><a href="https://github.com/ImashNipun/github-readme-stats"><img alt="Imash Nipun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImashNipun&show_icons=true&langs_count=1&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21034404" alt="it21034404" /></a> </p>-->
 
